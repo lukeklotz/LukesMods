@@ -1,0 +1,27 @@
+{
+  "slug": "LukesMods",
+  "name": "Lukes Mods",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "Lukes Mods",
+  "author": "Lucas Klotz",
+  "authorEmail": "lukeklotz@gmail.com",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "cascadeLFO",
+      "name": "cascadeLFO",
+      "description": "multi lfo with cascading lfo speeds that theoretically work together",
+      "tags": [
+        "lfo",
+        "LFO",
+        "cascade"
+      ]
+    }
+  ]
+}
