@@ -22,6 +22,28 @@
         "LFO",
         "cascade"
       ]
+    },
+    {
+      "slug": "OnePoleLPF",
+      "name": "OnePoleLPF",
+      "description": "a simple lone pole low pass filter",
+      "tags": [
+        "LPF",
+        "filter",
+        "lowpass"
+      ]
+    },
+    {
+      "slug": "FourPoleLPF",
+      "name": "FourPoleLPF",
+      "description": "a simple four pole low pass filter",
+      "tags": [
+        "lowpass",
+        "lpf",
+        "LPF",
+        "four",
+        "pole"
+      ]
     }
   ]
 }
